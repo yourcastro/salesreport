@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# To run this project follow below steps
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed in ReactJS, please follow below steps to run the project & see results
 
-## Available Scripts
+Step1: Clone this Project and download in your local.
+
+Step2: npm install (To install all the libraries)
+
+Step3: npm run test (To test the project)
+
+step4: npm start (To start the project)
 
 In the project directory, you can run:
 
